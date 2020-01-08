@@ -1,6 +1,0 @@
-name: Secret Scanner
-on: [push, pull_request]
-jobs:
-  secret-scan:
-    name: secret-scan
-    uses: max/secret-scan@1.0.0
