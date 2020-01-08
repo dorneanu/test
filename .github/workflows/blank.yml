@@ -12,4 +12,4 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
     - name: gitleaks-action
-        uses: eshork/gitleaks-action@v1.0.0
+      uses: eshork/gitleaks-action@v1.0.0
