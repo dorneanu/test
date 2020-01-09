@@ -1,0 +1,28 @@
+[
+ {
+  "line": "ASIA7QA4AFF6ZZSW4GU7",
+  "offender": "ASIA7QA4AFF6ZZSW4GU7",
+  "commit": "816fa06e4b4fec004dab359e40645d5e53027317",
+  "repo": ".",
+  "rule": "AWS Client ID",
+  "commitMessage": "update\n",
+  "author": "Victor Dorneanu",
+  "email": "info@dornea.nu",
+  "file": "folder1/aws.conf",
+  "date": "2020-01-07T15:20:31+01:00",
+  "tags": "key, AWS"
+ },
+ {
+  "line": "-----BEGIN PGP PRIVATE KEY BLOCK-----",
+  "offender": "-----BEGIN PGP PRIVATE KEY BLOCK-----",
+  "commit": "816fa06e4b4fec004dab359e40645d5e53027317",
+  "repo": ".",
+  "rule": "PGP",
+  "commitMessage": "update\n",
+  "author": "Victor Dorneanu",
+  "email": "info@dornea.nu",
+  "file": "test.pem",
+  "date": "2020-01-07T15:20:31+01:00",
+  "tags": "key, PGP"
+ }
+]
