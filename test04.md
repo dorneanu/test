@@ -1,0 +1,13 @@
+bas3
+bas3
+bas3
+bas3
+bas4
+bas4
+bas4
+bas4
+bas4as
+bas4as
+bas4as
+bas4as
+ASIA7QA4AFF6ZZSW4GU7
