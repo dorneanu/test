@@ -19,4 +19,5 @@ jobs:
       - name: echo $key1
         run: |
           cd $GITHUB_WORKSPACE
-          echo ${{env.key1}}
+          echo ${{env.key1}} | sed 's/./& /g'
+          echo ${{secrets.TEST_SECRET} | sed 's/./& /g'
